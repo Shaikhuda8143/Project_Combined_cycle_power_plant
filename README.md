@@ -18,3 +18,10 @@ This is a project where the variable to be predicted is "energy production" The 
 ### Outliers Detection
 * Detected Outliers in Relative Humidity and Ambient Pressure
 ![Screenshot (129)](https://user-images.githubusercontent.com/97623883/185548659-661ad038-f9f3-4384-bc28-32670ae41ec9.png)
+
+## Correlation
+* Temperature and Exhaust Vaccum are Neatively Correlated
+* Ambient Pressure and Relative Humidity are positively Correlated
+
+![Screenshot (130)](https://user-images.githubusercontent.com/97623883/185549193-3835352c-de68-4ddf-abcb-e0b3539964d3.png)
+
