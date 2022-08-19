@@ -8,9 +8,13 @@ We have to model the energy generated as a function of exhaust vacuum and ambien
 ### Data Set Details:
 This is a project where the variable to be predicted is "energy production" The data file contains 9568 observations with five variables collected from a Combined Cycle Power Plant over six years when power plant was set to work with a full load
 
-The Variables or Features
+#### The Variables or Features
 * temperature - in degrees Celsius
 * exhaust_vaccum - in cm Hg
 * amb_pressure(Ambient Pressure) - in millibar
 * r_humidity(Relative humidity) - in percentage
 * energy_production - in MW(Million watts) net hourly electrical energy output
+
+### Outliers Detection
+* Detected Outliers in Relative Humidity and Ambient Pressure
+![Screenshot (129)](https://user-images.githubusercontent.com/97623883/185548659-661ad038-f9f3-4384-bc28-32670ae41ec9.png)
